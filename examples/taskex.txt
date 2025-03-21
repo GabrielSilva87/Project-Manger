@@ -1,0 +1,10 @@
+# Tarefas para o Projeto 1
+
+## Tarefas Pendentes
+- [ ] Criar estrutura do repositório
+- [ ] Implementar script de adição de tarefas
+- [ ] Testar listagem de tarefas
+
+## Tarefas Concluídas
+- [x] Configurar ambiente de desenvolvimento
+- [x] Criar README.md
