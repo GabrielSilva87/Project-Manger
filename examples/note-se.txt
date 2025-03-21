@@ -1,0 +1,24 @@
+# Notas do Projeto: Nome do Projeto
+
+## 1. Ideias Gerais
+- Criar uma aplicação para gerenciamento de tarefas
+- Incluir funcionalidades de adicionar, remover e listar tarefas
+
+## 2. Requisitos
+- Linguagem de programação: Bash
+- Estrutura de diretórios organizada
+- README informativo
+- Scripts para automação
+
+## 3. Prazo
+- Inicial: 01/10/2023
+- Entrega: 01/11/2023
+
+## 4. Tarefas Pendentes
+- [ ] Implementar o script de criação de projeto
+- [ ] Implementar o script para listar projetos
+- [ ] Documentar o uso dos scripts
+
+## 5. Referências
+- Sites de documentação sobre Bash
+- Exemplos de scripts no GitHub
